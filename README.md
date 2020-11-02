@@ -1,24 +1,24 @@
-#Boarding Management System
+# Boarding Management System
 
-## About Poject
+## About Project
 
 <p>System developed for managed boardings in jaffna area for university students. University Students in Jaffna Area can contact boarding owners and find their appropiate boarding. Boarding owners can advertise their boarding by putting in them our system. System includes functionalities for</p>
 
-- [Register As Boarding Owner]
-- [Add Boarding to our system]
-- [Select your appropiate boarding]
-- [Rate Boarding]
-- [Comment on boarding]
-- [Complain about boarding]
-- [Give Suggestions for the system]
-- [Add Admins]
-- [Remove boardings or boarding owners]
-- [Email messages Send through the system]
-- [Manage comments and complaints]
+- Register As Boarding Owner
+- Add Boarding to our system
+- Select your appropiate boarding
+- Rate Boarding
+- Comment on boarding
+- Complain about boarding
+- Give Suggestions for the system
+- Add Admins
+- Remove boardings or boarding owners
+- Email messages Send through the system
+- Manage comments and complaints
 
 <p>All details include in the FinalReport2019.pdf</p>
 
-##Setup the project
+## Setup the project
 
 - Clone the project
 - Go inside the project directory (cd Boarding-Management-System)
